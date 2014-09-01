@@ -9,3 +9,4 @@ Sublime Text is a text editor for code and prose. It does away with many repetit
 If you’re coming here for the first time, we encourage you to read through the Basic Concepts section before you continue.
 
 Happy learning!
+
