@@ -1,3 +1,5 @@
-<?php_egg_logo_guid
+<?php
+
+echo 'hi';
 
 ?>
