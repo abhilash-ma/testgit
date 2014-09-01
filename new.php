@@ -1,13 +1,14 @@
+ 
 <!--hContnt start-->
 <div class="col-md-12 col-sm-12 col-xs-12 padding_0 padding_TB_02 hContnt" data-role="page">
    <div class="col-md-12 col-sm-12 col-xs-12 padding_0">
-      <h1>Lead --------------</h1>
+      <h1>Oppy </h1>
    </div>
    <div class="col-md-12 col-sm-12 col-xs-12 padding_0 text-center-xs text-center-sm marginBtm_01">
       <div class="col-md-6 col-sm-6 col-xs-6 padding_0 text-center-xs">
          <div class="dropdown text-left-sm text-left-xs">
             <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
-            My Leads --------------
+            My Oppys
             <span class="caret margin_05"></span>
             </button>
             <ul class="dropdown-menu dropMenu_own" role="menu" aria-labelledby="dropdownMenu1">
@@ -183,4 +184,4 @@
    <!--Grid view End-->
 </div>
 <!-- hContnt End-->
-
+ 
