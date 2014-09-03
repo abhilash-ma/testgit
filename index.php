@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Test Page Changed</title>
+	<title>Test Page Changed 123</title>
 </head>
 <body>
 	<div>
