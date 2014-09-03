@@ -13,7 +13,7 @@
 			</ul>
 		</header>
 		<footer>
-			<p>Footer</p>
+			<p> --- Footer --- </p> 
 		</footer>
 	</div>
 </body>
