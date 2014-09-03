@@ -5,6 +5,7 @@
 	<title>ABC.php</title>
 </head>
 <body>
+	<h3>Heading</h3>
 	<div>
 		<header>
 			<ul>
@@ -13,7 +14,7 @@
 			</ul>
 		</header>
 		<footer>
-			<p></p>
+			<p>test test test</p>
 		</footer>
 	</div>
 </body>
