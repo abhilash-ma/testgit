@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Test Page</title>
+	<title>Test Page - GITHUB Repo</title>
 </head>
 <body>
 	<div>
@@ -13,7 +13,13 @@
 			</ul>
 		</header>
 		<footer>
-			<p> --- Footer --- </p> 
+			<p>
+				Footer
+				<ul>
+						<li>Hi</li>
+						<li>Hello</li>
+					</ul>	
+			</p> 
 		</footer>
 	</div>
 </body>
